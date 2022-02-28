@@ -1,0 +1,23 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: sport-depth-chart-service
+  jpa:
+    properties:
+      hibernate:
+        show_sql: false
+        format_sql: true
+  datasource:
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: mysecretpassword
+  flyway:
+    locations: classpath:/db/migration
+    url: jdbc:postgresql://localhost:5432/postgres
+    user: postgres
+    password: mysecretpassword
+springdoc:
+  swagger-ui:
+    path=/swagger-ui.html
+
