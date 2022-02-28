@@ -28,8 +28,8 @@
 ## Topics
 1. [How to run this application](#How-to-run-this-application)
 2. [Requirements Analysis](#Requirements-Analysis)
-   a. [Entity Relationship Diagram (ERD) for Sport Depth Chart](#Entity-Relationship-Diagram-ERD-for-Sport-Depth-Chart)
-   b. [Implementation Thought Explanation](#Implementation-Thought-Explanation)
+   * a. [Entity Relationship Diagram (ERD) for Sport Depth Chart](#Entity-Relationship-Diagram-ERD-for-Sport-Depth-Chart)
+   * b. [Implementation Thought Explanation](#Implementation-Thought-Explanation)
 4. [Swagger API definition](#Swagger-API-definition)
 5. [How to use API](#How-to-use-API)
 
